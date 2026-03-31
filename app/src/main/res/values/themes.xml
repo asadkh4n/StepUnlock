@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StepUnlock" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1A1A1A</item>
+        <item name="colorAccent">#378ADD</item>
+    </style>
+</resources>
